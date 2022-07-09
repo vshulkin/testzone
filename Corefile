@@ -1,0 +1,17 @@
+nyumc.org:53 {
+    hosts /root/hostfile {
+        fallthrough nyumc.org
+	reload 1m
+    }
+    forward nyumc.org 10.132.2.100 10.134.2.100
+
+    log
+    errors
+}
+
+.:53 {
+    forward . 8.8.8.8 8.8.4.4
+    log
+    errors
+}
+
