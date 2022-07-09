@@ -1,2 +1,4 @@
 10.185.135.6 ranconprod.nyumc.org
 10.185.135.6 ranprod1.nyumc.org
+10.185.135.6 portainer.nyumc.org 
+10.185.135.6 portainer-api.nyumc.org
