@@ -1,5 +1,11 @@
-10.185.135.6 ranconprod.nyumc.org ranprod1.nyumc.org
-10.185.135.6 test-dev1.nyumc.org test-prod1.nyumc.org minio-tenant1-dev1.nyumc.org
-10.185.135.6 portainer.nyumc.org portainer-api.nyumc.org
-10.185.135.6 harbor.nyumc.org harbor-notary.nyumc.org
-10.185.135.6 teleport.nyumc.org teleport-auth.nyumc.org 
+10.185.135.6 ranconprod.nyumc.org 
+10.185.135.6 ranprod1.nyumc.org
+10.185.135.6 test-dev1.nyumc.org 
+10.185.135.6 test-prod1.nyumc.org 
+10.185.135.6 minio-tenant1-dev1.nyumc.org
+10.185.135.6 portainer.nyumc.org 
+10.185.135.6 portainer-api.nyumc.org
+10.185.135.6 harbor.nyumc.org 
+10.185.135.6 harbor-notary.nyumc.org
+10.185.135.6 teleport.nyumc.org 
+10.185.135.6 teleport-auth.nyumc.org 
